@@ -28,4 +28,16 @@ public class Recipe {
     public int ingredientsCount() {
         return ingredients.size();
     }
+
+    public String getName() {
+        return name;
+    }
+
+    public String getCurrency() {
+        return currency;
+    }
+
+    public List<Ingredients> getIngredients() {
+        return ingredients;
+    }
 }
