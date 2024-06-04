@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipe name="Apple Pie" currency="rands">
+	<ingredient>
+		<name>Apples</name>
+		<price>10.50</price>
+	</ingredient>
+	<ingredient>
+		<name>225g plain flour</name>
+		<price>5.65</price>
+	</ingredient>
+	<ingredient>
+		<name>1 egg</name>
+		<price>1.25</price>
+	</ingredient>
+	<ingredient>
+		<name>140g butter</name>
+		<price>3.95</price>
+	</ingredient>
+</recipe>

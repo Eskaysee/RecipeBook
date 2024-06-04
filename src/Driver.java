@@ -45,7 +45,7 @@ public class Driver {
             writer.println("Currency: " +  recipe.getCurrency());
             for (Ingredients ingredient : recipe.getIngredients()) {
                 if (recipe.getCurrency().equalsIgnoreCase("rands")) {
-                    writer.printf("%s: (R%s)\n", ingredient.getName(), ingredient.getPrice());
+                    writer.printf("%s (R%s)\n", ingredient.getName(), ingredient.getPrice());
                 } else if (recipe.getCurrency().equalsIgnoreCase("cents")) {
                     writer.printf("%s (%sc)\n", ingredient.getName(), ingredient.getPrice());
                 }

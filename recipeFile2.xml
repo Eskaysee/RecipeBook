@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipe name="Pancakes" currency="cents">
+	<ingredient>
+		<name>100g plain flour</name>
+		<price>525</price>
+	</ingredient>
+	<ingredient>
+		<name>2 eggs</name>
+		<price>250</price>
+	</ingredient>
+	<ingredient>
+		<name>300ml semi-skimmed milk</name>
+		<price>1,575</price>
+	</ingredient>
+	<ingredient>
+		<name>1 tbsp sunflower oil or vegetable, plus extra for frying</name>
+		<price>250</price>
+	</ingredient>
+	<ingredient>
+		<name>pinch of salt &gt; 5g</name>
+		<price>125</price>
+	</ingredient>
+</recipe>
